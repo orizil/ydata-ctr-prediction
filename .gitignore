@@ -1,0 +1,51 @@
+# Virtual environments
+venv/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+*.swp
+*.swo
+*.tmp
+*.temp
+*.~lock.*
+
+# Test results
+htmlcov/
+.tox/
+.coverage
+.cache
+.nox/
+
+# Environment files
+*.env
+.envrc
+.env.bak
+.env.local
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ssh keys
+tmp_ssh
+tmp_ssh.pub
+
+# pycharm files
+.idea
