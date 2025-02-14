@@ -25,7 +25,7 @@ Core scripts include:
 https://wandb.ai/amir324/ctr-prediction-kaggle?nw=nwuseramir324
 
 
-## running Streamlit app 
+## Running Streamlit app
 ```
 cd notebooks
 streamlit run ../app/app.py
