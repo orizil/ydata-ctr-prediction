@@ -26,7 +26,8 @@ https://wandb.ai/amir324/ctr-prediction-kaggle?nw=nwuseramir324
 
 
 ## running Streamlit app 
-```cd notebooks
+```
+cd notebooks
 streamlit run ../app/app.py
 ```
 ![alt text](image.png)
