@@ -19,7 +19,10 @@ Core scripts include:
 - `result.py`: Analyzes results and generates metrics/charts.
 - `tasks.py`: Automates workflows using `invoke`.
 
-Created using Cookiecutter: https://github.com/yanivgal/serj-ds-skeleton
+
+
+## Logging - Weights and biases project link
+https://wandb.ai/amir324/ctr-prediction-kaggle?nw=nwuseramir324
 
 
 ## running Streamlit app 

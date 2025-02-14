@@ -7,7 +7,7 @@ import pickle
 import sys
 sys.path.append('../')
 
-from notebooks.entire_flow_test_data import process_test_data
+from notebooks.preprocess_and_predict import process_test_data
 
 st.title("CTR Prediction")
 st.markdown("""

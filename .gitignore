@@ -49,3 +49,8 @@ tmp_ssh.pub
 
 # pycharm files
 .idea
+
+# Weights and Biases
+wandb/
+wandb-debug.log
+
