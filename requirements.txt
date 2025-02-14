@@ -1,3 +1,13 @@
 pandas
 scikit-learn
 invoke
+streamlit
+seaborn
+duckdb
+dask 
+dask-ml 
+umap-learn 
+lightgbm
+xgboost
+holidays
+wandb

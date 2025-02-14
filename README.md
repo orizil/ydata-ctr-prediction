@@ -4,7 +4,7 @@ Inspired by Serj’s lecture on project structure and best practices for data sc
 
 ## Project Structure
 
-- `app/`: Helper scripts and utilities.
+- `app/`: Streamlit app 
 - `models/`: Trained models for the current experiment.
 - `archived_experiments/`: Archived experiments and their outputs.
 - `data/`: Input datasets and preprocessed data.
@@ -20,3 +20,10 @@ Core scripts include:
 - `tasks.py`: Automates workflows using `invoke`.
 
 Created using Cookiecutter: https://github.com/yanivgal/serj-ds-skeleton
+
+
+## running Streamlit app 
+```cd notebooks
+streamlit run ../app/app.py
+```
+![alt text](image.png)
