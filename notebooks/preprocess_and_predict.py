@@ -419,18 +419,3 @@ def process_test_data(test_filepath=test_file_path, df=None, imputation_params_p
     wandb.finish()
 
     return predictions
-
-
-# generate predictions for test data
-
-
-#run cell 
-
-
-# predictions = process_test_data(
-#     test_filepath='X_test_1st.csv',
-#     imputation_params_path='imputation_params.json',
-#     feature_params_path='feature_params.json',
-#     scaler_path='feature_scaler.joblib',
-#     model_path='final_model.joblib'
-# )
