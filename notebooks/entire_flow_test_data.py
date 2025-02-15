@@ -357,7 +357,7 @@ def process_test_data(test_filepath=test_file_path, df=None, imputation_params_p
                      scaler_path=scaler_path, model_path=model_path):
     """Process test data while maintaining original order"""
     
-    # Initialize wandb
+    wandb.login(key="fd511589295096a3f3fe0ecd2b26816062484cc3")
     wandb.init(
         project="ctr-prediction-kaggle",
         config={
